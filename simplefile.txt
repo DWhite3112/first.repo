@@ -1,5 +1,5 @@
-line Every
+line All
 line Good
-line Man
+line Dogs
 line Deserves
 line Flowers
